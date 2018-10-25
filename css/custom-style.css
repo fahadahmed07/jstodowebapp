@@ -1,0 +1,19 @@
+.divBg{
+    background-image: url("../images/background-img.png");
+    background-size: 100%;
+    /* background-repeat: no-repeat; */
+}
+.item-detail {
+    padding-left: 3%;
+    font-size: 13px;
+}
+.deleteItem{
+    cursor: pointer;
+}
+.taskComplete{
+    text-decoration: line-through;
+}
+
+#myBtn{
+    cursor: pointer;
+}
